@@ -35,9 +35,22 @@ export default function LoginPage() {
       "url": "https://wearewacky.com",
       "logo": "https://courses.wearewacky.com/logo.png"
     },
+    "instructor": {
+      "@type": "Person",
+      "name": "Szabolcs Deak",
+      "jobTitle": "Founder & AI Educator",
+      "url": "https://www.linkedin.com/in/szabolcs-deak-a0731350/",
+      "worksFor": {
+        "@type": "Organization",
+        "name": "Wacky Works Digital"
+      }
+    },
     "educationalLevel": "Beginner",
     "coursePrerequisites": "No prior experience required",
     "numberOfCredits": "30 days",
+    "datePublished": "2025-12-03",
+    "dateModified": "2025-12-15",
+    "inLanguage": "en",
     "hasCourseInstance": {
       "@type": "CourseInstance",
       "courseMode": "online",
@@ -64,9 +77,24 @@ export default function LoginPage() {
     "url": "https://wearewacky.com",
     "logo": "https://courses.wearewacky.com/logo.png",
     "sameAs": [
-      "https://linkedin.com/company/wackyworksdigital",
-      "https://twitter.com/WeAreWacky"
+      "https://www.instagram.com/wackyworksdigital/",
+      "https://www.facebook.com/wackyworksdigital/",
+      "https://www.threads.com/@wackyworksdigital",
+      "https://x.com/wackywdigital",
+      "https://uk.pinterest.com/wackyworksdigital/",
+      "https://www.linkedin.com/company/109555093/",
+      "https://www.tiktok.com/@wackyworksdigital",
+      "https://www.youtube.com/channel/UCg5R_EIt0Li5gI2gyZi6ajw",
+      "https://www.reddit.com/user/wackyworksdigital/",
+      "https://www.twitch.tv/wackyworksdigital",
+      "https://github.com/wackyworksdigital",
+      "https://medium.com/@wackyworksdigital"
     ],
+    "founder": {
+      "@type": "Person",
+      "name": "Szabolcs Deak",
+      "url": "https://www.linkedin.com/in/szabolcs-deak-a0731350/"
+    },
     "contactPoint": {
       "@type": "ContactPoint",
       "email": "hello@wearewacky.com",
