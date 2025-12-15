@@ -1,0 +1,50 @@
+# robots.txt for Introduction to AI Course
+# https://courses.wearewacky.com
+
+# Allow all search engines
+User-agent: *
+Allow: /
+Allow: /terms
+Allow: /privacy
+Allow: /changelog
+Allow: /c/
+
+# Block authenticated/private areas
+Disallow: /dashboard
+Disallow: /module
+Disallow: /profile
+Disallow: /payment
+Disallow: /certificate
+Disallow: /admin
+Disallow: /admin-portal
+Disallow: /api/
+
+# Welcome AI crawlers explicitly
+User-agent: GPTBot
+Allow: /
+Allow: /llms.txt
+
+User-agent: ChatGPT-User
+Allow: /
+Allow: /llms.txt
+
+User-agent: ClaudeBot
+Allow: /
+Allow: /llms.txt
+
+User-agent: Claude-Web
+Allow: /
+Allow: /llms.txt
+
+User-agent: PerplexityBot
+Allow: /
+Allow: /llms.txt
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+# Sitemap location
+Sitemap: https://courses.wearewacky.com/sitemap.xml

@@ -1,0 +1,43 @@
+# Introduction to AI Course
+> 30-day AI onboarding course by Wacky Works Digital
+
+## About This Course
+Introduction to AI is a comprehensive 30-day course designed for complete beginners who want to understand and use AI tools effectively. No coding or technical background required.
+
+## What You'll Learn
+- Days 1-10: AI Assistants (ChatGPT, Claude, Gemini, Microsoft Copilot)
+- Days 11-20: AI Creation Tools (Midjourney, DALL-E, Runway, ElevenLabs, Suno)
+- Days 21-30: Real-World AI Skills (Email automation, research, custom AI assistants)
+
+## Course Features
+- Self-paced learning on your schedule
+- Hands-on exercises with real AI tools
+- Official LinkedIn-shareable certificate upon completion
+- Multi-currency pricing (GBP, USD, EUR, CAD, AUD, HKD, HUF)
+
+## Pricing
+- Standard Access: £49 / $59
+- Partner Access: Discounted rates for corporate partners
+- Enterprise: Custom pricing for organizations
+
+## Who Is This For
+- Professionals wanting to leverage AI at work
+- Entrepreneurs exploring AI opportunities
+- Anyone curious about artificial intelligence
+- Complete beginners with no technical background
+
+## Certificate
+Upon completing all 30 days, you receive an official certificate that can be shared on LinkedIn, Twitter, and other platforms.
+
+## Company
+Wacky Works Digital is a UK-based digital studio specializing in AI education, custom SaaS development, and workflow automation.
+
+## Contact
+- Website: https://courses.wearewacky.com
+- Main Site: https://wearewacky.com
+- Email: hello@wearewacky.com
+
+## Links
+- Login: https://courses.wearewacky.com
+- Terms: https://courses.wearewacky.com/terms
+- Privacy: https://courses.wearewacky.com/privacy
